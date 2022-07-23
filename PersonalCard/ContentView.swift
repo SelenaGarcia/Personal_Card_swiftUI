@@ -26,8 +26,8 @@ struct ContentView: View {
                 Text("Developer")
                     .foregroundColor(.white)
                     .font(.system(size: 15))
-                PersonalInfo(icon: "phone.fill", textValue: "+543813155490")
-                PersonalInfo(icon: "envelope.fill", textValue: "selenagarcialobo@gmail.com")
+                PersonalInfo(icon: "phone.fill", textValue: "+5438199999999")
+                PersonalInfo(icon: "envelope.fill", textValue: "selenagarcialobo@mail.com")
             }
 
 
